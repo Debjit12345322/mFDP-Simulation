@@ -1,5 +1,5 @@
 
-# Conformal outlier detection — Section 5.2 replication (R)
+# Conformal outlier detection —  Replication (R)
 
 An R replication of the simulated outlier-detection experiment in Bates, Candès, Lei,
 Romano & Sesia, *Testing for outliers with conformal p-values* (Section 5.2, Figure 7),
